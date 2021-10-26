@@ -19,7 +19,7 @@ const NavMenu = () => {
               <NavLink exact to="/lifecycle" style={{ margin: "0 15px" }}>
                 lifecycle
               </NavLink>
-              <NavLink exact to="/hook" style={{ margin: "0 15px" }}>
+              <NavLink exact to="/hooks" style={{ margin: "0 15px" }}>
                 hooks
               </NavLink>
               <NavLink exact to="/contextApi" style={{ margin: "0 15px" }}>
